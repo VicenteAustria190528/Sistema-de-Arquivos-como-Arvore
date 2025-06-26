@@ -1,0 +1,7 @@
+# Ignorar binários e objetos gerados
+*.o
+programa
+arvore.html
+
+# Ignorar configuração da IDE
+.vscode/
